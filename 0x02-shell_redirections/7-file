@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e Best Schooln | tee '\*\'Best School\'\*$\?\*\*\*\*\*:)'
+echo 'Best School\n' | tee '\*\'Best School\'\*$\?\*\*\*\*\*:)'
